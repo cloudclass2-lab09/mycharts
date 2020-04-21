@@ -3,12 +3,12 @@ entries:
   eventapp-lab09:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-21T10:15:06.1937859+09:00"
+    created: "2020-04-21T14:20:39.6836924+09:00"
     description: A Helm chart for Kubernetes
-    digest: 4c6d011aec5d058a0d2075b7d4d1648591851fe76763a6a1ce142d0eb626d1ba
+    digest: cb9c9f3b6368b771673275f6302ae6e1cbb55bf9345c9f02f75e3c2f586a2d54
     name: eventapp-lab09
     type: application
     urls:
     - https://cloudclass2-lab09.github.io/mycharts/eventapp-lab09-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-21T10:15:06.1927854+09:00"
+generated: "2020-04-21T14:20:39.6756927+09:00"
